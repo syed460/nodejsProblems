@@ -1,4 +1,4 @@
-// RemoveDuplicatesFromArray
+// RemoveDuplicatesFromShortedArray
 
 let nums = [0,0,1,1,1,2,2,3,3,4,0]
 let nums1 = [1, 1, 2]
